@@ -1,21 +1,22 @@
 # my-vux-project
 
-> A Vue.js project
+> 这是Vux模板
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动 (浏览器地址: http://localhost:8080)
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 本地测试
+cd dist
+npm install
+npm start
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
